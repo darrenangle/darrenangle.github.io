@@ -83,7 +83,7 @@ $(function(){
     $a.click(function(){window.location = "art.html"});
     $w.click(function(){window.location = "writing.html"});
     $i.click(function(){window.location = "info.html"});
-    $l.click(function(){window.location = "info.html"});
+    $l.click(function(){window.location = "index.html"});
 
     //poll screen size hackery
 
@@ -161,7 +161,7 @@ $(function(){
     $an.click(function(){window.location = "art.html"});
     $wn.click(function(){window.location = "writing.html"});
     $inn.click(function(){window.location = "info.html"});
-    $ln.click(function(){window.location = "info.html"});
+    $ln.click(function(){window.location = "index.html"});
 
 
 });
