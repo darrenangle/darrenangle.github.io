@@ -142,14 +142,14 @@ p {
     }
     #content h1 {
         font-size: 3em;
-        color: #27ae60;
+        color: #16a085;
         border-bottom: 2px #27ae60;
     }
     #content h2 {
-        color: #1abc9c;
+        color: #2980b9;
     }
     #content h3 {
-        color: 
+        color: #bdc3c7;
     }
     .project {
         margin-left: 3em;
@@ -160,3 +160,9 @@ p {
         .project p {
             font-size: 1.2em;
         }
+        .project img {
+            width: 80%;
+        }
+    .spacer {
+        height: 20em;
+    }    
