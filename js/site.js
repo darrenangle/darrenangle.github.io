@@ -1,6 +1,7 @@
 $(function(){
 
 
+
     var $c = $("#code"),
         $a = $("#art"),
         $w = $("#writing"),
@@ -79,6 +80,9 @@ $(function(){
     $w.click(function(){window.location = "/writing.html"});
     $i.click(function(){window.location = "/info.html"});
     $l.click(function(){window.location = "info.html"});
+
+    //poll screen size hackery
+    
 
 
 

@@ -64,18 +64,25 @@ p {
             font-weight: 700;
 
         }
+#wrapper{
+    height: auto;
+    overflow: auto;
+
+}
       
 #navbar {
     left: 0;
     top: 0;
     bottom: 0;
-    
+    min-height: 100%;
     width: 16em;
     position: fixed;
     background-color: #34495e;
     text-align: center;
 
-    }   
+    }
+    .beFixed {position:fixed;}
+    .beAbsolute {position:absolute;top:0px;}   
     
     #logo {
         display:block;
@@ -85,24 +92,27 @@ p {
         margin-top: 0em;
         padding-top: 2em;
         background-color: #34495e;
-        color: #ecf0f1;
+        color: #bdc3c7;
         }
         #logo p {
             text-align: center;
             margin: 0;
             margin-top: 0em;
             line-height: 1em;
-            font-family: "Open Sans";
+            font-family: "Tinos";
+            font-style: italic;
             font-size: 3.5em;
         }
     .inactive, .active {
         text-align: right;
-        margin-right: 1em;
-        padding: 1em;
+        margin-right: 4em;
+        padding: .5em;
+        padding-right: 1.5em;
         font-family: "Tinos", "serif";
         font-size: 2em;
         font-style: italic;
         width: 6em;
+
     }
     .active {
         background-color: #2c3e50;
@@ -115,10 +125,12 @@ p {
             font-size: 0.7em;
         }
     
-    .inactive {
+    .inactive a {
         color: #2c3e50;
+        background-color: #34495e;
+        text-decoration: none;
         }
-        .inactive:hover {
+        .inactive a:hover {
             color: #95a5a6;
         }
 
@@ -126,7 +138,25 @@ p {
 #content {
     margin-left: 17em;
     margin-top: 7em;
+    font-family: "open sans";
     }
     #content h1 {
         font-size: 3em;
-    }    
+        color: #27ae60;
+        border-bottom: 2px #27ae60;
+    }
+    #content h2 {
+        color: #1abc9c;
+    }
+    #content h3 {
+        color: 
+    }
+    .project {
+        margin-left: 3em;
+        color: #bdc3c7;
+        font-family: "open sans";
+        margin-bottom: 3em;
+        }    
+        .project p {
+            font-size: 1.2em;
+        }
