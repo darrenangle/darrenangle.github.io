@@ -4,7 +4,8 @@ $(function(){
     var $c = $("#code"),
         $a = $("#art"),
         $w = $("#writing"),
-        $i = $("#info");
+        $i = $("#info"),
+        $l = $("#logo");
 
     //Nav hover animations:
     
@@ -74,9 +75,10 @@ $(function(){
 
     //Landing Nav click functionality
     $c.click(function(){window.location = "/code.html"});
-    $a.click(function(){window.location = "/art.html"});
+    $a.click(function(){window.location = "art.html"});
     $w.click(function(){window.location = "/writing.html"});
     $i.click(function(){window.location = "/info.html"});
+    $l.click(function(){window.location = "landing.html"});
 
 
 
