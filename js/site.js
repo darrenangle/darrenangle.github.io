@@ -1,13 +1,17 @@
 $(function(){
-     
 
 
+    var $c = $("#code"),
+        $a = $("#art"),
+        $w = $("#writing"),
+        $i = $("#info");
 
     //Nav hover animations:
-    $("#code").hover(
+    
+    $c.hover(
         function(){
             $(this).stop().animate({
-                "background-color": "#16a085",
+                "background-color": "#3498db",
                 "color": "#ecf0f1"
                 }, 200);
         },
@@ -20,7 +24,7 @@ $(function(){
         }
     );
 
-    $("#art").hover(
+    $a.hover(
         function(){
             $(this).stop().animate({
                 "background-color": "#27ae60",
@@ -36,10 +40,10 @@ $(function(){
         }
     );
 
-    $("#writing").hover(
+    $w.hover(
         function(){
             $(this).stop().animate({
-                "background-color": "#9b59b6",
+                "background-color": "#8e44ad",
                 "color": "#ecf0f1"
                 }, 200);
         },
@@ -52,7 +56,7 @@ $(function(){
         }
     );
 
-    $("#info").hover(
+    $i.hover(
         function(){
             $(this).stop().animate({
                 "background-color": "#e74c3c",
@@ -67,6 +71,14 @@ $(function(){
             
         }
     );
+
+    //Landing Nav click functionality
+    $c.click(function(){window.location = "/code.html"});
+    $a.click(function(){window.location = "/art.html"});
+    $w.click(function(){window.location = "/writing.html"});
+    $i.click(function(){window.location = "/info.html"});
+
+
 
 });
 
