@@ -78,7 +78,7 @@ $(function(){
     $a.click(function(){window.location = "art.html"});
     $w.click(function(){window.location = "/writing.html"});
     $i.click(function(){window.location = "/info.html"});
-    $l.click(function(){window.location = "landing.html"});
+    $l.click(function(){window.location = "info.html"});
 
 
 
