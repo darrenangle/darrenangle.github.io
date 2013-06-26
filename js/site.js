@@ -1,9 +1,34 @@
+function navfade($t,inbgcolor,outcolor){
+    
+    var textcolor = "#ecf0f1";
+    var bgcolor = "#34495e";
 
+    if(!outcolor){
+        outcolor = bgcolor;
+    };
+
+    $t.hover(
+        function(){
+            $(this).stop().animate({
+                "background-color": inbgcolor,
+                "color": textcolor
+                }, 200);
+        },
+        function(){
+            $(this).stop().animate({
+                "background-color": bgcolor,
+                "color": outcolor
+                }, 2000);
+            
+        }
+    );
+
+}
 
 $(function(){
 
     
-
+    //landing div selectors
     var $c = $("#code"),
         $a = $("#art"),
         $w = $("#writing"),
@@ -12,70 +37,13 @@ $(function(){
 
 
     //landing page hover animations:
-    
-    $c.hover(
-        function(){
-            $(this).stop().animate({
-                "background-color": "#3498db",
-                "color": "#ecf0f1"
-                }, 200);
-        },
-        function(){
-            $(this).stop().animate({
-                "background-color": "#34495e",
-                "color": "#34495e"
-                }, 2000);
-            
-        }
-    );
+    navfade($c,"#3498db"); 
+    navfade($a,"#27ae60");    
+    navfade($w,"#8e44ad");
+    navfade($i,"#e74c3c");
 
-    $a.hover(
-        function(){
-            $(this).stop().animate({
-                "background-color": "#27ae60",
-                "color": "#ecf0f1"
-                }, 200);
-        },
-        function(){
-            $(this).stop().animate({
-                "background-color": "#34495e",
-                "color": "#34495e"
-                }, 2000);
-            
-        }
-    );
 
-    $w.hover(
-        function(){
-            $(this).stop().animate({
-                "background-color": "#8e44ad",
-                "color": "#ecf0f1"
-                }, 200);
-        },
-        function(){
-            $(this).stop().animate({
-                "background-color": "#34495e",
-                "color": "#34495e"
-                }, 2000);
-            
-        }
-    );
 
-    $i.hover(
-        function(){
-            $(this).stop().animate({
-                "background-color": "#e74c3c",
-                "color": "#ecf0f1"
-                }, 200);
-        },
-        function(){
-            $(this).stop().animate({
-                "background-color": "#34495e",
-                "color": "#34495e"
-                }, 2000);
-            
-        }
-    );
 
 
     //Landing Nav click functionality
