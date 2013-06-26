@@ -20,21 +20,24 @@ function navfade($t,inbgcolor,outcolor){
                 }, 2000);
         }
     );
-}
+};
 
 $(function(){
+    
     //landing div selectors
     var $c = $("#code"),
         $a = $("#art"),
         $w = $("#writing"),
         $i = $("#info"),
         $l = $("#logo");
+    
     //page nav selectors
     var $cn = $("#codenav"),
         $an = $("#artnav"),
         $wn = $("#writingnav"),
         $inn = $("#infonav"),
         $ln = $("#logonav");
+    
     //landing page hover animations:
         navfade($c,"#3498db"); 
         navfade($a,"#27ae60");    
@@ -44,6 +47,7 @@ $(function(){
         navfade($an,"#27ae60","#2c3e50");
         navfade($wn,"#8e44ad","#2c3e50");
         navfade($inn,"#e74c3c","#2c3e50");
+    
     //navigation
         $(".nav2").click(function(){window.location = "code.html"});
         $(".nav3").click(function(){window.location = "art.html"});
