@@ -1,3 +1,4 @@
+//create navigation animations
 function navfade($t,inbgcolor,outcolor){
     
     var textcolor = "#ecf0f1";
@@ -22,31 +23,23 @@ function navfade($t,inbgcolor,outcolor){
     );
 };
 
+//sequencer for multiple function calls
+Function.prototype.sequence = function(vals) {
+   for (var i = 0; i < vals.length; ++i) this.apply(null,vals[i]);
+}
+
 $(function(){
     
-    //landing div selectors
-    var $c = $("#code"),
-        $a = $("#art"),
-        $w = $("#writing"),
-        $i = $("#info"),
-        $l = $("#logo");
-    
-    //page nav selectors
-    var $cn = $("#codenav"),
-        $an = $("#artnav"),
-        $wn = $("#writingnav"),
-        $inn = $("#infonav"),
-        $ln = $("#logonav");
-    
-    //landing page hover animations:
-        navfade($c,"#3498db"); 
-        navfade($a,"#27ae60");    
-        navfade($w,"#8e44ad");
-        navfade($i,"#e74c3c");
-        navfade($cn,"#3498db","#2c3e50");
-        navfade($an,"#27ae60","#2c3e50");
-        navfade($wn,"#8e44ad","#2c3e50");
-        navfade($inn,"#e74c3c","#2c3e50");
+    navfade.sequence([
+        [$("#code"),"#3498db"],
+        [$("#art"),"#27ae60"],
+        [$("#writing"),"#8e44ad"],
+        [$("#info"),"#e74c3c"],
+        [$("#codenav"),"#3498db","#2c3e50"],
+        [$("#artnav"),"#27ae60","#2c3e50"],
+        [$("#infonav"),"#e74c3c","#2c3e50"],
+        [$("#writingnav"),"#8e44ad","#2c3e50"]
+    ]);
     
     //navigation
         $(".nav2").click(function(){window.location = "code.html"});
@@ -60,3 +53,4 @@ $(function(){
 
 
 
+    
