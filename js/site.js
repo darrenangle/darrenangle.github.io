@@ -1,4 +1,4 @@
-//create navigation animations
+//function for creating navigation hover animations
 function navfade($t,inbgcolor,outcolor){
     
     var textcolor = "#ecf0f1";
@@ -23,13 +23,14 @@ function navfade($t,inbgcolor,outcolor){
     );
 };
 
-//sequencer for multiple function calls
+//sequencer for multiple function calls with multiple params
 Function.prototype.sequence = function(vals) {
    for (var i = 0; i < vals.length; ++i) this.apply(null,vals[i]);
 }
 
 $(function(){
     
+    //bind $navs to hover with navfade & sequencer
     navfade.sequence([
         [$("#code"),"#3498db"],
         [$("#art"),"#27ae60"],
@@ -41,7 +42,7 @@ $(function(){
         [$("#writingnav"),"#8e44ad","#2c3e50"]
     ]);
     
-    //navigation
+    //navigation urls
         $(".nav2").click(function(){window.location = "code.html"});
         $(".nav3").click(function(){window.location = "art.html"});
         $(".nav4").click(function(){window.location = "writing.html"});
