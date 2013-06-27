@@ -42,6 +42,7 @@ p {
 #block-nav {
     text-align: center;
     width: 100%;
+    cursor: pointer;
     }
 
     #block-nav > div {
@@ -79,7 +80,13 @@ p {
     position: fixed;
     background-color: #34495e;
     text-align: center;
+    
     }
+    .nav1,.nav2,.nav3,.nav4,.nav5 {
+        cursor: pointer;
+    }
+
+
     .beFixed {position:fixed;}
     .beAbsolute {position:absolute;top:0px;}   
     
