@@ -124,6 +124,11 @@ h1 {
     height: 0;
     min-width: 3em;
 }
+.spacer2 {
+    display: inline-block;
+    height: 0;
+    min-width: 1em;
+}
 .biopic {
     max-width: 380px;
 }
