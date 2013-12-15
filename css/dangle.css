@@ -124,6 +124,9 @@ h1 {
     height: 0;
     min-width: 3em;
 }
-img {
+.biopic {
     max-width: 380px;
+}
+.album-art {
+    max-width: 600px;
 }
