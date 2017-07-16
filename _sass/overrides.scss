@@ -1,0 +1,196 @@
+// quick and dirty mess to be organized l8r bro
+
+
+body {
+  background-color:#fff;
+  border-top: 10px solid $brand-color;
+}
+.brand {
+  color: $brand-color;
+}
+
+a {
+  text-decoration: none;
+  color: $brand-color;
+  // border-bottom: 1px solid black;
+
+  &:visited {
+    color: $brand-color;
+  }
+
+  &:hover {
+    color: $text-color;
+    // text-decoration: underline;
+    border-bottom: 1px solid $brand-color;
+
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+.back-button {
+  text-align: left;
+}
+.decorative-image {
+  // height: 200px;
+  width: 80%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.block-text {
+  p.block-quote {
+    font-weight: 200;
+  }
+}
+
+
+.split-layout-wrapper {
+  display: flex;
+  text-align: center;
+  width: 80%;
+  @media screen and (max-width: 722px) {
+    width: 100%;
+  }
+
+  .left-section-titles {
+    @media screen and (max-width: 722px) {
+      display: none;
+    }
+    padding-top:337px;
+    width: 50%;
+    #artist-entrepreneur {
+      margin-bottom: 290px;
+    }
+    #more-more-more {
+      margin-bottom: 75px;
+    }
+    h3 {
+      padding-right: 40px;
+    }
+  }
+  .right-section {
+    width: 400px;
+    @media screen and (max-width: 722px) {
+      width: 80%;
+    }
+    .left-border {
+      padding-left: 40px;
+      border-left: solid 2px #4CD4B0;
+    }
+  }
+}
+
+.mobile-title {
+  @media screen and (min-width: 722px) {
+    display: none;
+  }
+  padding-bottom: 20px;
+  width: auto;
+  margin-bottom: 20px;
+  position: relative;
+  &:after {
+    content:"";
+    background: $brand-color;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 260px;
+  }
+}
+
+.header-image {
+  width: 500px;
+}
+.skinny-wrapper {
+  text-align: center;
+  .title-text {
+    font-family: 'Aileron', sans-serif;
+    font-weight: 100;
+    font-size: 135px;
+    text-transform: uppercase;
+    font-style:italic;
+    line-height: 130px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: left;
+    @media screen and (max-width: 722px) {
+      padding-left: 40px;
+      font-size: 6em;
+      line-height: 1em;
+      padding-bottom: 0px;
+    }
+    @media screen and (max-width: 400px) {
+     font-size: 5.5em;
+    }
+
+    @media screen and (max-width: 320px) {
+     font-size: 4.5em;
+    }
+
+    &.yellow-header {
+      color: #fc0;
+      position: absolute;
+      top: 22px;
+      margin-left: 11px;
+    }
+  }
+
+  h3 {
+    font-family: "Aileron";
+    font-weight: 600;
+    // font-style: italic;
+    font-size: 20px;
+    text-align: right;
+    letter-spacing: 2px;
+    @media screen and (max-width: 722px) {
+      text-align: left;
+      font-size: 18px;
+      margin-top: 50px;
+    }
+  }
+  p {
+
+    font-size: 17px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    text-align: left;
+
+  }
+  p,h3 {
+  }
+}
+
+.spiral {
+  width: 25px;
+  height: 25px;
+}
+.spacer {
+  margin-bottom: 40px;
+}
+.divider {
+  width: 275px;
+      border-bottom: 2px solid #fc0;
+      margin-bottom: 40px;
+      margin-top: -10px;
+}
+
+.error {
+  color: red;
+  display: none;
+}
+
+
+.skills-wrapper {
+  display: flex;
+  div {
+    padding: 10px;
+  }
+}

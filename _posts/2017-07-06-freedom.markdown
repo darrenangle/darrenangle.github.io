@@ -1,0 +1,70 @@
+---
+layout: index-no-title
+title:  "freedom journal"
+permalink: freedom
+---
+
+<div class='spacer'></div>
+<div class="sales-page">
+  <div class="back-button">
+    <a href="/"><h4 class="brand">← HOME</h4></a>
+  </div><br>
+  <h2>freedom <span class="brand">/</span> journal</h2>
+  <h4 class="">A collection of writing and art I'm thinking about now. Unattributed stuff is mine.</h4>
+  <div class="spacer with-divider"></div>
+  <div class="block-text">
+    <p class="block-quote">“For one to be free there must be at least two. Freedom signifies a social relation, an asymmetry of social conditions: essentially it implies social difference--it presumes and implies the presence of social division. Some can be free only in so far as there is a form of dependence they can aspire to escape.” </p>
+    <p class=" "><a target="_blank" href="https://www.theguardian.com/books/2003/apr/05/society">zygmunt bauman</a></p>
+    <div class="spacer"></div>
+  </div>
+  <div class="big-quote">
+    <h3>“The answer is not one, but also not two.”</h3><br>
+    <p class=" "><a target="_blank" href="https://www.poets.org/poetsorg/poem/swarm">nick flynn</a></p>
+    <br>
+  </div>
+  <div class="block-text">
+    <p class="block-quote">“Through the constant creation of himself...an individual goes through ever higher levels of 'neuroses' and at the same time through ever higher levels of universal development of his personality.” </p>
+    <p class=" "><a target="_blank" href="http://positivedisintegration.com/">kazimierz dąbrowski</a></p>
+    <div class="spacer"></div>
+  </div>
+  <div class="block-text">
+    <p class="block-quote">“According to our theory, accelerated psychic development is actually impossible without transition through processes of nervousness and psychoneuroses, without external and internal conflicts, without maladjustment to actual conditions in order to achieve adjustment to a higher level of values (to what 'ought to be'), and without conflicts with lower level realities as a result of spontaneous or deliberate choice to strengthen the bond with reality of higher level” </p>
+    <p class=" "><a target="_blank" href="http://positivedisintegration.com/">kazimierz dąbrowski</a></p>
+    <div class="spacer"></div>
+  </div>
+  <div class="big-quote">
+    <h3>"Less and less do you need to force things, until finally you arrive at non-action. <br><br>When nothing is done, nothing is left undone."</h3><br>
+    <p class=" "><a target="_blank" href="http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html">tao te ching</a></p>
+    <br>
+  </div>
+  <div class="block-text">
+    <p class="block-quote">“He who lets the world, or his own portion of it, choose his plan of life for him, has no need of any other faculty than the ape-like one of imitation. He who chooses his plan for himself, employs all his faculties.” </p>
+    <p class=" "><a target="_blank" href="https://www.goodreads.com/book/show/385228.On_Liberty">john stuart mill</a></p>
+    <div class="spacer"></div>
+  </div>
+  <div class="big-quote">
+    <h3>“That so few now dare to be eccentric, marks the chief danger of the time.”</h3><br>
+    <p class=" "><a target="_blank" href="https://www.goodreads.com/book/show/385228.On_Liberty">john stuart mill</a></p>
+    <br>
+  </div>
+  <div class="block-text">
+    <p class="block-quote">“In short—to overstate the point only slightly—because people don’t really know why they do what they do, they give explanations of their own behavior that are about as reliable as anyone else’s, and in many circumstances actually less so.” </p>
+    <p class=" "><a target="_blank" href="https://www.amazon.com/Kwame-Anthony-Appiah/e/B001IGHR60">kwame anthony appiah</a></p>
+    <div class="spacer"></div>
+  </div>
+  <div class="block-text">
+    <p class="block-quote"> “You sometimes see in a wind a piece of paper blowing about anyhow. Suppose the piece of paper could make the decision: ‘Now I want to go this way.’ I say: ‘Queer, this paper always decides where it is to go, and all the time it is the wind that blows it. I know it is the wind that blows it.’ That same force which moves it also in a different way moves its decisions.”</p>
+    <p class=" "><a target="_blank" href="https://www.goodreads.com/book/show/12075.Tractatus_Logico_Philosophicus">ludwig wittgenstein</a></p>
+    <div class="spacer"></div>
+  </div>
+    <div class="big-quote">
+      <h3>“The three most harmful addictions are heroin, carbohydrates, and a monthly salary.”</h3><br>
+      <p class=" "><a target="_blank" href="https://twitter.com/nntaleb">nassim nicholas taleb</a></p>
+      <br>
+    </div>
+    <div class="block-text">
+      <p class="block-quote"> “To approach the Other in conversation is to welcome his expression, in which at each instant he overflows the idea a thought would carry away from it. It is therefore to receive from the Other beyond the capacity of the I, which means exactly: to have the idea of infinity. But this also means: to be taught.” </p>
+      <p class=" "><a target="_blank" href="https://www.amazon.com/Totality-Infinity-Essay-Exteriority-Philosophical/dp/0820702455">emmanuel levinas</a></p>
+      <div class="spacer"></div>
+    </div>
+</div>

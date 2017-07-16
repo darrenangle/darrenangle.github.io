@@ -1,0 +1,159 @@
+---
+layout: index-no-title
+title:  "Grow Your Business"
+permalink: grow-your-business
+---
+<div class='spacer'></div>
+<div class='sales-page'>
+  <div class="back-button">
+    <a href="/"><h4 class="brand">← HOME</h4></a>
+  </div><br>
+  <h2>There are people out there who need you.</h2>
+  <div class='spacer'></div>
+  <p>You've felt it.</p>
+  <p>If you have a small business, you know what it's like.</p>
+  <p>That feeling you get when <strong>you make a customer happy.</strong></p>
+  <p>You made a dent in the universe, and you’ve got money in your bank account to prove it.</p>
+  <p><em>Damn, that feels good.</em></p>
+  <p>And you know what else? </p>
+  <p>Your customers feel it too.</p>
+  <p>Your customers <strong>love it</strong> when your business succeeds.</p>
+  <p>They love it when you work hard for them, and when you make their lives a little better by giving them exactly what they need.</p>
+  <p>(They really love it when you’re easy to find).</p>
+  <p>They need you.</p>
+  <p>And you need them.</p>
+  <p>Are you doing everything you can to meet that need?</p>
+  <p>Or are there obstacles in your way?</p>
+  <div class='spacer'></div>
+  <div class='spacer'></div>
+  <h3>
+    You’ve got the business cards, the website, and the social media accounts.
+    <br/>
+    <div class='spacer'></div>
+    But where are the customers?
+  </h3><br/>
+  <div class='spacer'></div>
+  <p>Maybe you did everything you were “supposed to do.”</p>
+  <p>Maybe you went and got everything that other successful businesses seem to have.</p>
+  <p>You’ve heard that the internet makes anything possible-- that small businesses can do really well online (with not that much money).</p>
+  <p>You got a logo, you got a business card, you got a website, and you got an Instagram and Facebook account.</p>
+  <p>So why aren’t they working?</p>
+  <p>You believe in what you do.</p>
+  <p>You work really hard.</p>
+  <p><em>You've built something great.</em></p>
+  <p><strong>But your sales aren't where you need them to be.</strong></p>
+  <div class='spacer'></div>
+  <h3>If you run your own business, you don’t have a lot of time.</h3>
+  <div class='spacer'></div>
+  <p>If you’re spreading what little time you have across your website, your Instagram, your Facebook, your flyers, your meetings, your networking, your ads-- </p>
+  <p>You hardly have the time to <em>run your business,</em> let alone focus on getting more customers.</p>
+  <p>Let me ask you something.</p>
+  <p>What could you do if you had LOTS of customers?</p>
+  <p>What if you could reach the <strong>perfect customer</strong> whenever you needed to?</p>
+  <p>What if your business had a <strong>reliable system</strong> for getting a steady stream of customers <em>whenever you want them?</em></p>
+  <div class='spacer'></div>
+  <h3>You’re closer than you think.</h3>
+  <div class='spacer'></div>
+  <p>I've helped a lot of businesses grow.</p>
+  <p>I've also seen a lot of small business owners get in their own way.</p>
+  <p>After ten years of helping good people build great businesses, I've learned something pretty important:</p>
+  <p><em>Most businesses have <strong>one big problem</strong> at the root of all the others.</em></p>
+  <p>Most small business owners have <strong>one thing</strong> that is really holding them back.</p>
+  <p>If you knew what <strong>your real obstacle</strong> was, you'd breathe a huge sigh of relief.</p>
+  <em>
+    <p>You could help more people.</p>
+    <p>You could bring in more money.</p>
+    <p>And you could feel more free.</p>
+  </em>
+  <p>
+    <strong>
+      Do you know what's really holding you back?
+    </strong>
+  </p>
+  <p>
+    <strong>
+      Do you want to?
+    </strong>
+  </p>
+  <div class="call-to-action-wrapper">
+    <form id="gform" class="cta-form" method="POST" action="https://script.google.com/macros/s/AKfycbxFAv2ubEuzryqoNMDBGB5f_IpTSg8iGYC5Pxq1aTdhIqrb4Xpt/exec">
+    <h3>Schedule a free consultation.</h3>
+    <p>30 minutes of expert insight could change everything.</p>
+    <p class="label">Your Name</p>
+    <input type="text" name="name" placeholder="Enter your name" required>
+    <div class='spacer'></div>
+    <p class="label">Your Email</p>
+    <input type="email" name="email" placeholder="Enter your email address" required>
+    <p class='error'>Please enter a valid email address.</p>
+    <div class='spacer'></div>
+    <p class="label">Your Website</p>
+    <input type="text" name="website" placeholder="Your business website (Optional)">
+    <div class='spacer'></div>
+    <input class='submit-button' type="submit" value="grow my business">
+    </form>
+    <div id="thankyou_message" style="display:none;">
+      <h3>Thank you. <br>I'll be in touch soon.</h3>
+    </div>
+  </div>
+  <div class='spacer'></div>
+  <div class='spacer'></div>
+  <h3>How I'll Help You</h3>
+  <div class='spacer'></div>
+  <p>I’ve helped companies like Google, P&G, and Starbucks grow their businesses online.</p>
+  <p>I’ve also helped a lot of small businesses and non-profits hit their best numbers in years.</p>
+  <p>I have over 10 years of experience growing businesses by using <strong>great writing</strong> and <strong>efficient digital marketing</strong>.</p>
+  <p>And I believe everyone deserves a deeply fufilling life.</p>
+  <p>I'll help you in three steps:</p>
+  <ol>
+    <li>I will learn your business process and <strong>reveal your big, hidden obstacle</strong> to more customers and more money.</li>
+    <li>I'll teach you to craft writing that sells, every time, anywhere (Facebook, Instagram, flyers, wherever!)</li>
+    <li>I’ll help you discover <strong>your biggest opportunity online.</strong> </li>
+  </ol>
+  <div class='spacer'></div>
+  <h3>I’ll work with you side-by-side to grow your business every week.</h3>
+  <div class='spacer'></div>
+  <p>My goal is to help you grow your business-- by teaching you everything you’ll need to do it, and executing alongside you.</p>
+  <p>When our time together is done, I want you to feel totally confident that you have the skills and strategies to get new customers whenever you want.</p>
+  <p>When you work with me, you’ll get full access to my entire skill set, tailored to what your business needs the most.</p>
+  <p><strong>Here are a few things I’m really good at:</strong></p>
+  <ul>
+    <li>Writing copy and advertising that sells</li>
+    <li>Understanding your perfect customer and where to find them</li>
+    <li>Coding and designing websites that can handle tons of traffic</li>
+    <li>Helping you write emails that get results</li>
+    <li>Creating effective (and really cheap) ads on social media</li>
+    <li>Helping small business owners overcome their mental obstacles and bad habits</li>
+  </ul>
+  <div class='spacer'></div>
+  <h3>I’ll go to work for you, as your partner and advisor, for as long as you need.</h3>
+  <div class='spacer'></div>
+  <p>Here’s how it works:</p>
+  <p>You schedule a free consultation.</p>
+  <p>We’ll meet for an hour or so, and I’ll get a sense of your business and your personality.</p>
+  <p>If you like my initial ideas, and we both think we’ll be a good fit, I’ll send you a proposal.</p>
+  <p>Then we’ll get to work.</p>
+  <p>If you don’t see dramatic results after one month, we’re done, no questions asked.</p>
+  <p>If you like your results, and want to keep growing, we’ll work together until you’ve got full control of your business and can grow it whenever you need to.</p>
+  <p>If you want more leads, more customers, and more freedom in your business, schedule a free consultation to get started.</p>
+  <div class="call-to-action-wrapper">
+    <form id="gform2" class="cta-form" method="POST" action="https://script.google.com/macros/s/AKfycbxFAv2ubEuzryqoNMDBGB5f_IpTSg8iGYC5Pxq1aTdhIqrb4Xpt/exec">
+    <h3>Schedule a free consultation.</h3>
+    <p>Find out how to grow.</p>
+    <p class="label">Your Name</p>
+    <input type="text" name="name" placeholder="Enter your name" required>
+    <div class='spacer'></div>
+    <p class="label">Your Email</p>
+    <input type="email" name="email" placeholder="Enter your email address" required>
+    <p class='error'>Please enter a valid email address.</p>
+    <div class='spacer'></div>
+    <p class="label">Your Website</p>
+    <input type="text" name="website" placeholder="Your business website (Optional)">
+    <div class='spacer'></div>
+    <input class='submit-button' type="submit" value="grow my business">
+    </form>
+    <div id="thankyou_message2" style="display:none;">
+      <h3>Thank you. <br>I'll be in touch soon.</h3>
+    </div>
+  </div>
+</div>
+{% include gformscript.html %}

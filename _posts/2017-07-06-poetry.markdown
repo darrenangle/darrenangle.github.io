@@ -1,0 +1,30 @@
+---
+layout: index-no-title
+title:  "darren angle poems"
+permalink: poetry
+---
+<div class='spacer'></div>
+<div class="sales-page">
+  <div class="back-button">
+    <a href="/"><h4 class="brand">← HOME</h4></a>
+  </div><br>
+  <h2>darren angle poetry</h2>
+  <img class="decorative-image" src="/assets/img/poetry.jpg" alt="">
+  <div class="spacer"></div>
+  <h4 class="brand">RECENT POEMS</h4><br>
+  <h4>elegy (for CD Wright) <span class="brand">/ <a href="http://www.thevolta.org/ewc62-tribute-dangle-p1.html"> THE VOLTA</a></span></h4>
+  <br>
+  <h4>Knowing This Life Holds a Passage to the Next <span class="brand">/</span></h4>
+  <h4>Fire in Bone <span class="brand">/</span></h4>
+  <h4>Frost Monsters in the Microchip Business <span class="brand">/</span></h4>
+  <h4>Origin Story <span class="brand">/</span><a href="http://bombmagazine.org/article/7534/four-poems"> BOMB MAGAZINE</a></h4>
+  <div class="spacer"></div>
+  <h4 class="brand">EDUCATION</h4>
+  <h4>MFA Literary Arts <span class="brand">/</span> Brown University</h4>
+  <h4>BA English <span class="brand">/</span> Macalester College</h4>
+  <div class="spacer"></div>
+  <h4 class="brand">AWARDS</h4>
+  <h4>Adele K Seaver Fellowship <span class="brand">/</span> Brown University</h4>
+  <h4>Weston Fine Arts Award <span class="brand">/</span> Brown University</h4>
+  <h4>Academy of American Poets Prize <span class="brand">/</span> Macalester College</h4>
+</div>

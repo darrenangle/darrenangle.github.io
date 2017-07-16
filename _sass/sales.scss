@@ -1,0 +1,120 @@
+.sales-page{
+  width: 80%;
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+
+
+  h2,h3 {
+    font-size: 4.1em;
+    line-height: 1.3em;
+    font-weight: 100;
+    font-family: "Aileron", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    text-align: left;
+  }
+  h3 {
+    letter-spacing: inherit;
+    font-size: 3em;
+  }
+  .with-divider {
+    padding-bottom: 25px;
+    border-bottom: 2px solid $brand-color;
+    width: 350px;
+  }
+
+  h4,h5 {
+    text-align: left;
+    font-weight: 200;
+    // text-transform: uppercase;
+    margin-bottom: 0px;
+  }
+  h5 {
+    font-weight: 200;
+  }
+  p {
+    font-size: 1.3em;
+    font-weight: 400;
+  }
+
+  ul, ol {
+    text-align: left;
+    font-size: 1em;
+    font-style: italic;
+    li {
+      margin-bottom: 10px;
+    }
+  }
+
+  .call-to-action-wrapper {
+    background-color: #b8ffeb;
+    padding: 75px;
+    padding-top: 60px;
+    border-radius: 5px;
+    @media screen and (max-width: 722px) {
+      padding: 25px;
+
+      h3 {
+        font-size: 2.5em;
+        margin-top: 0;
+      }
+    }
+    @media screen and (max-width: 400px) {
+      padding: 25px;
+
+      h3 {
+        font-size: 2em;
+        margin-top: 0;
+      }
+    }
+
+    p {
+      font-size: 1.5em;
+      font-weight: 300;
+      font-style: italic;
+    }
+    p.label {
+      font-size: 1em;
+      margin-bottom: 0;
+    }
+    .cta-form {
+      text-align: left;
+      width: 100%;
+
+      input {
+        box-sizing : border-box;
+        width: 100%;
+        border-radius: 3px;
+        height: 40px;
+        border: none;
+        padding: 30px;
+        padding-left: 20px;
+        font-size: 1em;
+
+        &.submit-button {
+          width: 100%;
+          text-align: center;
+          height: 4em;
+          background-color: rgba(0, 128, 128, 0.71);
+          color: white;
+          padding: 0;
+          font-weight: 100;
+          font-size: 1.3em;
+          font-style: italic;
+          text-transform: uppercase;
+
+          &:hover {
+            background-color: rgba(0, 128, 128, 1);
+            cursor: pointer;
+
+          }
+        }
+
+      }
+
+    }
+
+    // color: white;
+  }
+
+}
