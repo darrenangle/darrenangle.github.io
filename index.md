@@ -15,13 +15,13 @@ layout: index
     <div class="spacer"></div>
     <div class="left-border">
     <h3 class="artist-entrepreneur mobile-title">ARTIST <span class="brand">+</span> ENTREPRENEUR</h3>
-    <p>I help perceptive people craft exceptional careers at <a href="https://youshouldquityourjob.com/" target="_blank">You Should Quit Your Job.</a></p>
-    <p>I grow businesses using great writing and digital marketing. How can I help <a href="/grow-your-business">you?</a></p>
-    <p>I code for big companies like Google and P&amp;G. Check out my <a href="/portfolio">portfolio.</a></p>
+    <p>Founder @ <a href="https://youshouldquityourjob.com/" target="_blank">You Should Quit Your Job.</a></p>
+    <p>Freelance web developer. Clients include Google & P&G. <a href="/portfolio">Check out my portfolio.</a></p>
     <h3 class="more-more-more mobile-title">MORE THINGS ABOUT ME</h3>
-    <p>I’m an award-winning poet. Read my <a href="/poetry">poems.</a></p>
-    <p>I love people, language, and human <a href="/freedom">freedom.</a></p>
-    <p><a href="https://www.goodreads.com/user/show/1670587-darren-angle" target="_blank">books</a> I’m reading now<br />
+    <p>Poetry Editor @ <a href="https://rhinopoetry.org/" target="_blank">RHINO Poetry</a></p>
+    <p>I’m a poet. Read my <a href="/poetry">poems.</a></p>
+    <p>Here are some quotes about human <a href="/freedom">freedom.</a></p><br /><br />
+    <p><a href="https://www.goodreads.com/user/show/1670587-darren-angle" target="_blank">books</a> I’m reading<br />
     some <a href="https://www.instagram.com/darren.angle/" target="_blank">photography</a> + other people’s quotes<br />
     <a href="https://www.instagram.com/drawdarren/" target="_blank">drawings</a> from my sketchbook</p>
     <h3 class="contact mobile-title">CONTACT</h3>
