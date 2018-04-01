@@ -10,7 +10,6 @@ permalink: freedom
     <a href="/"><h4 class="brand">← HOME</h4></a>
   </div><br>
   <h2>freedom <span class="brand">/</span> journal</h2>
-  <h4 class="">A collection of writing and art I'm thinking about now. Unattributed stuff is mine.</h4>
   <div class="spacer with-divider"></div>
   <div class="block-text">
     <p class="block-quote">“For one to be free there must be at least two. Freedom signifies a social relation, an asymmetry of social conditions: essentially it implies social difference--it presumes and implies the presence of social division. Some can be free only in so far as there is a form of dependence they can aspire to escape.” </p>
