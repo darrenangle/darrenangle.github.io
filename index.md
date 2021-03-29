@@ -22,7 +22,7 @@ layout: index
     <p>I’m a poet. Read my <a href="/poetry">poems.</a></p>
     <p>Here are some quotes about human <a href="/freedom">freedom.</a></p><br /><br />
     <p><a href="https://www.goodreads.com/user/show/1670587-darren-angle" target="_blank">books</a> I’m reading<br />
-    some <a href="https://www.instagram.com/darren.angle/" target="_blank">photography</a> + other people’s quotes<br />
+    some <a href="https://www.instagram.com/rapnamedarren/" target="_blank">photography</a> + other people’s quotes<br />
     <a href="https://www.instagram.com/drawdarren/" target="_blank">drawings</a> from my sketchbook</p>
     <h3 class="contact mobile-title">CONTACT</h3>
     <p>email:<br />
