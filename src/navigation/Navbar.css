@@ -1,0 +1,13 @@
+.Navbar {
+  display: flex;
+  padding: 50px;
+  position: fixed;
+  width: 100vw;
+  flex-flow: row no-wrap;
+  justify-content: space-between;
+}
+@media (max-width: 600px) {
+  .Navbar {
+    padding: 20px;
+  }
+}
