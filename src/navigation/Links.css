@@ -1,0 +1,19 @@
+.Links {
+  padding-right: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 133px;
+}
+
+.Links a {
+  font-family: Montserrat, sans-serif;
+  font-style: italic;
+  color: #494949;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .Links {
+    padding-right: 20px;
+  }
+}

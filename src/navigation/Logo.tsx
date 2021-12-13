@@ -1,10 +1,13 @@
+import { Link } from 'react-router-dom';
 import './Logo.css';
 
-export const Logo = () => {
+const Logo = () => {
   return (
-    <div className="Logo">
+    <Link to="/" className="Logo">
       <h1>DARREN ANGLE</h1>
       <p>CREATIVE ENGINEER</p>
-    </div>
+    </Link>
   );
 };
+
+export default Logo;

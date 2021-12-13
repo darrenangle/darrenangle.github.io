@@ -1,3 +1,40 @@
 .Logo {
   line-height: 0;
+  padding-left: 50px;
+  padding-top: 30px;
+  text-decoration: none;
+  color: #3d3d3d;
+}
+
+.Logo h1 {
+  font-family: 'Six Caps', sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  letter-spacing: -1pt;
+}
+.Logo p {
+  font-family: Montserrat, sans-serif;
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: 300;
+}
+.Logo a,
+.Logo a:visited {
+  color: inherit;
+}
+@media (max-width: 600px) {
+  .Logo {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .Logo h1 {
+    font-family: 'Six Caps', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: -1pt;
+  }
+  .Logo p {
+    display: none;
+  }
 }
