@@ -1,5 +1,4 @@
 import { ImageBackground } from './ImageBackground';
-import { Navbar } from '../navigation/Navbar';
 
 const Home = () => {
   return (
